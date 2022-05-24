@@ -1,5 +1,7 @@
-## Hello, Devs!
+# Hello, Devs!
 
-- 🔭 I’m currently working as Systems Analyst
-- 🌱 I’m currently learning Node JS and Java.
-- 📫 How to reach me: lucasvinicius564@hotmail.com
+- Student of Systems Analysis and Development
+- I’m currently working as Systems Analyst
+- I'm live in Maringá, Paraná, Brazil
+
+Knowledges
